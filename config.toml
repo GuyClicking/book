@@ -1,4 +1,4 @@
-baseURL = 'https://blders.rouxl.es/'
+baseURL = 'https://guyclicking.github.io/book'
 languageCode = 'en-us'
 title = 'Blindfolded Solving'
 theme = "hugo-book"
